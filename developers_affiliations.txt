@@ -31263,7 +31263,7 @@ liyong.qiao: liyong.qiao!intel.com
 liyuan198251: liyuan198251!users.noreply.github.com
 	ZTE
 liz: liz!heptio.com
-	Heptio
+	VMware
 lizg: lizg!fiberhome.com
 	Fiberhome
 lizhen: lizhen!outlook.jp
